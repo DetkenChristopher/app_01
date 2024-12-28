@@ -22,7 +22,7 @@ leer()
 
   return (
     <View>
-      <Text>Pagina2Screen hola</Text>
+      <Text style={{fontSize:50}}>Futurama</Text>
       <FlatList
       data={datos}
       renderItem={({item})=>
